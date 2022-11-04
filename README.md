@@ -7,7 +7,7 @@
 
 $ rm -rf Niki-bypass
 
-$ touch .krs.txt
+$ touch krs.txt
 
 $ git clone https://github.com/TEAM-KRS/Niki-bypass
 
