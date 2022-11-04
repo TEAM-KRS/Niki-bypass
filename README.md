@@ -21,7 +21,7 @@ Open 2nd session
 
 $ cd
 
-$ nano krs.txt
+$ nano /data/data/com.termux/files/home/krs.txt
 
 Yaha pa apna key save karo pir 1st session pa jao
 
