@@ -27,6 +27,9 @@ Yaha pa apna key save karo pir 1st session pa jao
 
 $ python KRS.py
 
+# ENJOY BYPASS
+
+# FOLLOW GITHUB FOR MORE BYPASS COMMANDS
 
 
 # YOUR DATA 100% SECURE 
